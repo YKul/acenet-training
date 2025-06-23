@@ -35,8 +35,6 @@ The program is robust to all user input and supports thorough error detection wi
 communication.
 
 # Program Usage
-## Start-up
-The user will be prompted with a menu:
 ----------------------------
 Main Menu.
 ----------------------------
