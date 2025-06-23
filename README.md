@@ -35,9 +35,9 @@ The program is robust to all user input and supports thorough error detection wi
 communication.
 
 # Program Usage
-"----------------------------\n
-Main Menu.\n
-----------------------------"
+----------------------------
+Main Menu.
+----------------------------
 
 Choose an option. You may use numbers 1-5 (eg. 3) OR command words (eg. ADD)
 
