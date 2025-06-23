@@ -37,7 +37,7 @@ communication.
 # Program Usage
 "----------------------------
 Main Menu.
-----------------------------
+----------------------------"
 
 Choose an option. You may use numbers 1-5 (eg. 3) OR command words (eg. ADD)
 
@@ -45,7 +45,7 @@ Choose an option. You may use numbers 1-5 (eg. 3) OR command words (eg. ADD)
 2) COMPLETE a Task or Habit complete
 3) REMOVE a Task or Habit
 4) VIEW reports
-5) EXIT program"
+5) EXIT program
 
 Users may enter a numerical value corresponding to their selection, or may use command words for a more 
 intuitive user-experience.
