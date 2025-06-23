@@ -66,11 +66,9 @@ The program will display further instructions for the user throughout its functi
 
 ## EXAMPLES
 
-The following is an example run of the program demonstrating all functions with valid inputs.
+The following is an example run of all program functions with inputs.
 
 ### ADD
-
-#### TASK
 
 ---------------------
 You are adding tasks.
