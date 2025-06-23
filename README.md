@@ -114,6 +114,11 @@ Format:[input],[input],... ...,[input]
 ### COMPLETE
 
 #### TASK
+
+
+----------------------------
+You are completing a task.
+----------------------------
 Enter all task(s) completed
 Format:[input],[input],... ...,[input]
 '-Q' or '-q' at any time to Quit adding a task.
