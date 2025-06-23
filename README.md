@@ -49,6 +49,7 @@ Upon selection, the user will be prompted to make another choice (TASK or HABIT 
 or WEEKLY for option 4).
 
 EXAMPLE:
+
 ![image](https://github.com/user-attachments/assets/55de0bce-a055-4260-8c9c-7519b3b3f9c7)
 
 If improper input is detected at any point, the program will responds with an informative error message 
