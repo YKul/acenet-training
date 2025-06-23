@@ -36,16 +36,11 @@ communication.
 
 # Program Usage
 ----------------------------
-Main Menu.
+Main Menu
 ----------------------------
 
-Choose an option. You may use numbers 1-5 (eg. 3) OR command words (eg. ADD)
+![image](https://github.com/user-attachments/assets/b397e3a0-5a72-4586-922a-6365ca3ab49b)
 
-1) ADD a Task or Habit
-2) COMPLETE a Task or Habit complete
-3) REMOVE a Task or Habit
-4) VIEW reports
-5) EXIT program
 
 Users may enter a numerical value corresponding to their selection, or may use command words for a more 
 intuitive user-experience.
