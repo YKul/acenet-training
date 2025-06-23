@@ -93,8 +93,6 @@ Format:[input],[input],... ...,[input]
 
 ['Test3', 'Test1', 'Test2'] successfully added to ['Monday', 'Tuesday']
 
-#### HABIT
-
 ----------------------------
 You are adding daily habits.
 ----------------------------
@@ -108,9 +106,6 @@ Format:[input],[input],... ...,[input]
 ['Habit2', 'Habit1'] successfully added to ('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday')
 
 ### COMPLETE
-
-#### TASK
-
 
 ----------------------------
 You are completing a task.
@@ -136,9 +131,6 @@ Task list updated.
 **Note: This program uses a built-in system calendar to determine which day you can completing the task on.
 A message is displayed if a task is completed after its scheduled day**
 
-#### HABIT
-
-
 ----------------------------
 You are completing a habit.
 ----------------------------
@@ -163,8 +155,6 @@ Format:[input],[input],... ...,[input]
 Habits updated.
 
 ### REMOVE
-
-#### TASK
 
 ----------------------------
 You are removing a task.
@@ -217,8 +207,6 @@ Test3 on Tuesday has been removed.
 
 Task list updated.
 
-#### HABIT
-
 ----------------------------
 You are removing a habit.
 ----------------------------
@@ -238,8 +226,6 @@ Habits updated.
 
 ### VIEW
 
-#### WEEKLY
-
 ----------------------------
 Weekly Report.
 ----------------------------
@@ -253,8 +239,6 @@ Incomplete tasks:
 
 
 End of weekly report.
-
-#### DAILY
 
 ----------------------------
 Daily Report.
@@ -309,10 +293,6 @@ There are no tasks on Saturday
 End of daily report(s).
 
 ### EXIT
-
-----------------------------
-Main Menu.
-----------------------------
 
 Choose an option. You may use numbers 1-5 (eg. 3) OR command words (eg. ADD)
 
