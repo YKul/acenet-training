@@ -1,0 +1,1 @@
+https://www.credly.com/badges/d7b5f12e-285e-4464-9d2b-bbf99678153b/public_url
