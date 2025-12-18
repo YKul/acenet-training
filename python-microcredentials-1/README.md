@@ -1,4 +1,8 @@
-[<p align="center"><img width="250" height="250" alt="microcredential-in-practical-foundations-for-data-a 1" src="https://github.com/user-attachments/assets/75c99fb7-97cb-4731-b547-6d6faa961833" /></p>](https://www.credly.com/badges/d7b5f12e-285e-4464-9d2b-bbf99678153b/public_url)
+<p align="center">
+  <a href="https://www.credly.com/badges/d7b5f12e-285e-4464-9d2b-bbf99678153b/public_url">
+      <img width="250" height="250" alt="microcredential-in-practical-foundations-for-data-a 1" src="https://github.com/user-attachments/assets/75c99fb7-97cb-4731-b547-6d6faa961833" />
+  </a>
+</p>
 
 # Introduction
 This program was created for the ACENET "Microcredential in Practical Foundations for Data Analytics".
